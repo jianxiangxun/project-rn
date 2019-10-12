@@ -12,7 +12,6 @@ import com.zmxv.RNSound.RNSoundPackage;
 import com.rnim.rn.audio.ReactNativeAudioPackage;
 import com.brentvatne.react.ReactVideoPackage;
 import com.imagepicker.ImagePickerPackage;
-import com.learnium.RNDeviceInfo.RNDeviceInfo;
 import com.horcrux.svg.SvgPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
 import com.facebook.react.ReactNativeHost;
@@ -44,7 +43,6 @@ public class MainApplication extends Application implements ReactApplication {
             new ReactNativeAudioPackage(),
             new ReactVideoPackage(),
             new ImagePickerPackage(),
-            new RNDeviceInfo(),
             new SvgPackage(),
             new VectorIconsPackage()
       );
