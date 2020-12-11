@@ -2644,8 +2644,9 @@ inherits@2, inherits@2.0.3, inherits@^2.0.3, inherits@~2.0.3:
   resolved "http://registry.npm.taobao.org/inherits/download/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
 
 ini@~1.3.0:
-  version "1.3.5"
-  resolved "http://registry.npm.taobao.org/ini/download/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.7.tgz#a09363e1911972ea16d7a8851005d84cf09a9a84"
+  integrity sha512-iKpRpXP+CrP2jyrxvg1kMUpXDyRUFDWurxbnVT1vQPx+Wz9uCYsMIqYuSBLV+PAaZG/d7kRLKRFc9oDMsH+mFQ==
 
 inquirer@*:
   version "6.2.1"
@@ -4531,10 +4532,6 @@ react-native-contacts@^2.2.5:
   version "2.2.5"
   resolved "http://registry.npm.taobao.org/react-native-contacts/download/react-native-contacts-2.2.5.tgz#5f7ff7b0310a095753ef0491d6e9453dcfc17ff8"
   integrity sha1-X3/3sDEKCVdT7wSR1ulFPc/Bf/g=
-
-react-native-device-info@^0.24.0:
-  version "0.24.0"
-  resolved "http://registry.npm.taobao.org/react-native-device-info/download/react-native-device-info-0.24.0.tgz#a6c2a8977229e1b94435e30469fa6af21a68f3ea"
 
 react-native-dismiss-keyboard@1.0.0:
   version "1.0.0"
