@@ -1831,8 +1831,9 @@ decamelize@^1.1.1:
   resolved "http://registry.npm.taobao.org/decamelize/download/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "http://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-diff@^0.3.5:
   version "0.3.8"
@@ -4531,10 +4532,6 @@ react-native-contacts@^2.2.5:
   version "2.2.5"
   resolved "http://registry.npm.taobao.org/react-native-contacts/download/react-native-contacts-2.2.5.tgz#5f7ff7b0310a095753ef0491d6e9453dcfc17ff8"
   integrity sha1-X3/3sDEKCVdT7wSR1ulFPc/Bf/g=
-
-react-native-device-info@^0.24.0:
-  version "0.24.0"
-  resolved "http://registry.npm.taobao.org/react-native-device-info/download/react-native-device-info-0.24.0.tgz#a6c2a8977229e1b94435e30469fa6af21a68f3ea"
 
 react-native-dismiss-keyboard@1.0.0:
   version "1.0.0"
