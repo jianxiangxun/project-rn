@@ -4421,10 +4421,10 @@ qr.js@0.0.0:
   resolved "http://registry.npm.taobao.org/qr.js/download/qr.js-0.0.0.tgz#cace86386f59a0db8050fa90d9b6b0e88a1e364f"
   integrity sha1-ys6GOG9ZoNuAUPqQ2baw6IoeNk8=
 
-qs@^6.6.0:
-  version "6.6.0"
-  resolved "http://registry.npm.taobao.org/qs/download/qs-6.6.0.tgz#a99c0f69a8d26bf7ef012f871cdabb0aee4424c2"
-  integrity sha1-qZwPaajSa/fvAS+HHNq7Cu5EJMI=
+qs@^6.6.1:
+  version "6.6.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.6.1.tgz#badc3705933629bed17bc709ba824ba0676708c5"
+  integrity sha512-DxHK46yYwC06eXWu3FCqlADDkzHZUhkaMY2o4jFbPtN90TO/Y4jzyuOpCa1iZ4OvFEOCC4MoGzubQUdxpZzk2w==
 
 qs@~6.5.2:
   version "6.5.2"
@@ -4531,10 +4531,6 @@ react-native-contacts@^2.2.5:
   version "2.2.5"
   resolved "http://registry.npm.taobao.org/react-native-contacts/download/react-native-contacts-2.2.5.tgz#5f7ff7b0310a095753ef0491d6e9453dcfc17ff8"
   integrity sha1-X3/3sDEKCVdT7wSR1ulFPc/Bf/g=
-
-react-native-device-info@^0.24.0:
-  version "0.24.0"
-  resolved "http://registry.npm.taobao.org/react-native-device-info/download/react-native-device-info-0.24.0.tgz#a6c2a8977229e1b94435e30469fa6af21a68f3ea"
 
 react-native-dismiss-keyboard@1.0.0:
   version "1.0.0"
